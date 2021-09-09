@@ -2,9 +2,6 @@
 
 <!---Esses são exemplos. Veja https://shields.io para outras pessoas ou para personalizar este conjunto de escudos. Você pode querer incluir dependências, status do projeto e informações de licença aqui--->
 
-![GitHub repo size](https://shields.io/github/repo-size/FanTabs/Portfolio-FanTabs?style=for-the-badge)
-![GitHub language count](https://img.shields.io/github/languages/count/FanTabs/Portfolio-FanTabs?style=for-the-badge)
-
 > Nosso Projeto é um Site para divulgação do nosso trabalho como uma equipe de freelancers, com links uteis para as plataformas workana, fiverr e etc.
 
 ### Ajustes e melhorias
