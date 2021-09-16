@@ -1,7 +1,5 @@
 # Site Portfolio da FanTabs
 
-<!---Esses são exemplos. Veja https://shields.io para outras pessoas ou para personalizar este conjunto de escudos. Você pode querer incluir dependências, status do projeto e informações de licença aqui--->
-
 > Nosso Projeto é um Site para divulgação do nosso trabalho como uma equipe de freelancers, com links uteis para as plataformas workana, fiverr e etc.
 
 ### Ajustes e melhorias
@@ -48,4 +46,4 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
 </table>
 
 
-[⬆ Voltar ao topo](#Site-Chrono-Trigger)<br>
+[⬆ Voltar ao topo]()<br>
