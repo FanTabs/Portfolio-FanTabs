@@ -35,6 +35,14 @@ Agradecemos às seguintes pessoas que  estão contribuindo para este projeto:
       </a>
     </td>
     <td align="center">
+      <a href="https://github.com/Luiz-eduardo-dev">
+        <img src="https://avatars3.githubusercontent.com/Luiz-Eduardo-dev" width="100px;" alt="Foto do Luiz Eduardo"/><br>
+        <sub>
+          <b>Luiz Eduardo</b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
       <a href="https://github.com/Anderson-Moreira">
         <img src="https://avatars3.githubusercontent.com/Anderson-Moreira" width="100px;" alt="Foto do Anderson Moreira"/><br>
         <sub>
