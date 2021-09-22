@@ -1,6 +1,22 @@
 @charset "UTF-8";
 
-*{
+*, *::before, *::after{
+    box-sizing: border-box;
     margin: 0;
     padding: 0;
+}
+
+html{
+    font-family: "Microsoft YaHei", "MicrosoftJhengHei";
+    font-size: 14px;
+    word-spacing: 1px;
+    box-sizing: border-box;
+    display: block;
+}
+
+body{
+    position: static !important;
+    margin: 0;
+    padding: 0;
+    background-color: #111;
 }
